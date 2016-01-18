@@ -1,2 +1,2 @@
 # test_new2
-new_project
+this is testing only
